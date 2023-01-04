@@ -1,5 +1,5 @@
 ## Empty Git changes observed in this folder
-These are just to-dos or notes
+These are just to-dos or notes to implement.
 
 ## Delete this 
 - This is the folder where you will upload changes to Github
