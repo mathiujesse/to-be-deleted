@@ -11,3 +11,4 @@ These are just to-dos or notes to implement.
 - how to delete folders via terminal command
 - sync everything to cloud and delete everything present locally
 - configure copilot
+- remove old account on commits
